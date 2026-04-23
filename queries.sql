@@ -8,7 +8,6 @@ FROM bank
 GROUP BY job
 ORDER BY conversion_rate desc;
 
-/* REMOVE 'LIMIT 500' FROM THE BOTTOM */
 SELECT job, count(*) as total_clients,
        AVG(balance) as avg_balance,
        SUM(CASE WHEN deposit='yes' THEN 1 ELSE 0 END) as subscribed,
