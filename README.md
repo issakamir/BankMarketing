@@ -37,25 +37,19 @@ The technical workflow for this project involved a multi-stage data engineering 
 
 ---
 
-## Results & Business Recommendation
+## Results & Business Recommendations
 
-Based on the analysis visualized in **visual1.png**, **visual2.png**, and **visual3.png**, the following insights were discovered:
+Based on the analysis of the project visuals, the following insights and recommendations were identified:
 
-### Key Insights
+* **Top Segments**: Students (75%) and Retirees (66%) are the most likely to subscribe. Retirees are high-value leads due to their higher average account balances.
 
-* **High-Conversion Segments**: **Students (75%)** and **Retirees (66%)** are the most likely to subscribe. Retirees represent high-value leads due to their higher average account balances.
-* **Seasonal Peaks**: Subscription rates peak significantly in **December (91%)**, **March (90%)**, **September (84%)**, and **October (82%)**.
-* **Past Success**: A "success" in a previous campaign is the strongest predictor of future subscription, with a conversion rate near **90%**.
-* **Call Efficiency**: Conversion rates are highest during the first **1–3 calls**; outreach beyond **5 calls** shows significant diminishing returns.
+* **Strategic Timing**: Launch campaigns in December (91%), March (90%), and September (84%) for maximum conversion. Avoid May, which has the lowest performance (33%).
 
----
+* **Call Efficiency**: Conversion is highest within the first 3 calls. After the 5th contact attempt, rates drop significantly, suggesting a cap on outreach frequency per lead.
 
-## Business Recommendations
+* **Lead Prioritization**: Customers with a "success" history from previous campaigns convert at nearly 90%. Additionally, single individuals with tertiary education represent a high-conversion demographic at 60%.
 
-* **Targeted Outreach**: Prioritize students and retirees for term deposit campaigns to maximize conversion.
-* **Strategic Scheduling**: Focus marketing spend and staffing during the high-performance months of **March, September, October, and December**.
-* **Operational Optimization**: Limit the number of calls per lead to a maximum of **5** to reduce operational costs without sacrificing significant subscription volume.
-
+* **Contact Strategy**: Cellular outreach is the most effective method, especially for reaching the student segment, where it achieves a 79% conversion rate.
 ---
 
 ## Next Steps
